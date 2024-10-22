@@ -1,23 +1,13 @@
-Welcome to Lumache's documentation!
+User login
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+User can login to the CMS by entering the credentials. Users can access the full interface of CMS, where they can manage features such as Dashboards and Reports, Admin management and document process view, depending on their user permissions.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-   morae
+   Dashboard
+   Create User
